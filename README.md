@@ -1,8 +1,4 @@
 # Shofy Fashion – Full Stack eCommerce Web Application + Admin Panel
-
-
-![Shofy Image Banner](https://i.ibb.co/vckrzmN/shofy-fashion-banner.png)
-
 Shofy fashion is a powerful and modern full stack eCommerce web application built using Next.js, Express.js, MongoDB with Mongoose, Redux Toolkit, RTK Query, Stripe payment method, Bootstrap 5, and Sass. It includes a feature-rich admin panel for easy management and control of your online store.
 
 ## Features Overview
@@ -68,64 +64,25 @@ Shofy fashion is a powerful and modern full stack eCommerce web application buil
 ## Installation and Usage
 
 To get started with Shofy, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   https://github.com/Hamed-Hasan/shofy-fashion-ecommerce-client.git
-   ```
-
-2. Install dependencies:
+1. Install dependencies:
 
    ```bash
    npm install
    ```
 
-3. Configure environment variables.
+2. Configure environment variables.
 
-4. Build the project:
+3. Build the project:
 
    ```bash
    npm run build
    ```
 
-5. Start the server:
+4. Start the server:
 
    ```bash
    npm run dev
    ```
-
-6. Access the application at the specified URL.
-
-## Client Side Live Link
-
-[Shofy Fashion Client Side Live Link](https://shofy-fashion-ecommerce-client.vercel.app)
-
-## Server Side Live Link
-
-[Shofy Fashion Server Side Live Link](https://shofy-backend.vercel.app)
-
-## Client Side Repo
-
-[Shofy fashion Client Side Repo](https://github.com/Hamed-Hasan/shofy-fashion-ecommerce-client.git)
-
-## Server Side Repo
-
-[Shofy fashion Server Side Repo](https://github.com/Hamed-Hasan/shofy-fashion-ecommerce-backend.git)
-
-## Sources and Credits
-
-- Twitter Bootstrap
-- Swiper Slider
-- Google Fonts
-- Free Font Awesome Icons by Fontawesome
-
-## Thank You for Choosing Shofy!
-
-We hope you find Shofy to be a powerful and effective solution for your eCommerce needs. Should you encounter
-
- any issues or have any questions, please feel free to reach out to our support team at swe.hamedhasan@gmail.com. Happy selling!
-
 
 
 
